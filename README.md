@@ -70,7 +70,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumithra9&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumithra9&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumithra9&layout=compact&theme=tokyonight" />
 </p>
