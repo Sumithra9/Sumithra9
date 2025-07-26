@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumithra9&theme=tokyonight" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumithra9&layout=compact&theme=tokyonight" />
 </p>
 
