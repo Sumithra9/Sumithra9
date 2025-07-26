@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q1Y3hpeWduMnJ4cTRpdG92dXhjbWJqbjM5NXlvcHVpcGJxeGhpZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="500"/>
 </p>
 
 ---
