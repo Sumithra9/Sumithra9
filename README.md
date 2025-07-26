@@ -11,10 +11,10 @@
 
 - 🎓 Final-year Computer Science student passionate about **Full-Stack Development**, **AI/ML**, and **Blockchain**.
 - 🌱 Currently exploring:
-  - ⚙️ Smart Contract-based AI Verifier  
-  - 🧠 LSTM-based Sentiment Analysis  
-  - 🍏 Personalized Nutrition using Genomics
-- 🔭 Recent project: [HostelAssist - Complaint Management System](https://github.com/Sumithra9/hostelassist)
+  - 🔗 Blockchain & Smart Contracts (Solidity, Hardhat, Ethereum)
+  - 🧠 Generative AI (LLMs, LangChain, RAG)
+  - 🧬 Deep Learning (CNNs, RNNs, Attention, Transfer Learning)
+
 - 🧩 I love solving real-world problems with scalable tech solutions.
 
 ---
@@ -59,17 +59,6 @@
 
 ---
 
-### 💻 Projects Showcase
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [📂 HostelAssist](https://github.com/Sumithra9/hostelassist) | MERN app to manage hostel complaints | React, Node.js, MongoDB |
-| [🤖 Sentiment Classifier](https://github.com/Sumithra9/lstm-sentiment-analysis) | Classifies product reviews using LSTM | Python, NLTK, TensorFlow |
-| [⚖️ ContractGenie](https://github.com/Sumithra9/ContractGenie) | Legal assistant for contracts using LLMs | Streamlit, Groq, FAISS |
-| [🔐 KnoxVerifier](https://github.com/Sumithra9/KnoxVerifier) | Smart contract storing AI model hashes | Solidity, Ethereum, Hardhat |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -83,7 +72,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sumithra-gopal/)
-- 📧 Email: `sumithra.email@gmail.com`
+- 📧 Email: `sumithragopal.gs@gmail.com`
 
 ---
 
