@@ -55,6 +55,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+
+  <!-- Generative AI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FEDC00?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-007396?style=flat&logo=faiss&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF5733?style=flat&logo=bookstack&logoColor=white" />
 </p>
 
 ---
