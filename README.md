@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
   Frontend 
@@ -44,11 +43,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-3C9CD7?style=flat&logo=python&logoColor=white" />
-
-  Blockchain 
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ganache-333333?style=flat&logo=ethereum&logoColor=orange" />
 
   Tools 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
