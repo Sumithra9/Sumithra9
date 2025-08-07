@@ -15,7 +15,6 @@
   - 🧠 Generative AI (LLMs, LangChain, RAG)
   - 🧬 Deep Learning (CNNs, RNNs, Attention, Transfer Learning)
 
-- 🧩 I love solving real-world problems with scalable tech solutions.
 
 ---
 
